@@ -1,4 +1,4 @@
-# portfolio
+# Portfólio
  <strong>PORTFÓLIO</strong>
 
 Olá me chamo Fyllypy Santiago, estudante de Análise e desenvolvimento de Sistemas na Faculdade Impacta Tecnologia, estou cursando meu 1° semestre com previsão de formatura pra julho de 2025.
